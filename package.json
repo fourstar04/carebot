@@ -1,0 +1,30 @@
+{
+  "name": "carebot",
+  "version": "1.0.0",
+  "description": "A twitterbot for trolling and analyzing the flu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fourstar04/carebot.git"
+  },
+  "keywords": [
+    "carebot",
+    "twit",
+    "twitter",
+    "twitterbot"
+  ],
+  "author": "Erik Altman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fourstar04/carebot/issues"
+  },
+  "homepage": "https://github.com/fourstar04/carebot#readme",
+  "dependencies": {
+    "lodash": "^4.0.0",
+    "node-schedule": "^0.6.0",
+    "twit": "^2.1.1"
+  }
+}
